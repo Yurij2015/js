@@ -23,4 +23,8 @@ var reversesortnumReserve = sortnumReserve.reverse();
 console.log(reversesortnumReserve);
 console.timeEnd("timer");
 
+// int[,] matrixC = new int[3,4] {{1,3,4,2},{4,5,8,3},{2,3,6,7}};
+// int[] matrixA = new int[3] {60, 80, 100};
+// int[] matrixB = new int[4] {40, 60, 80, 60};
+
 
